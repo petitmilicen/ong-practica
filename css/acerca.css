@@ -1,0 +1,43 @@
+body {
+    height: 400px;
+    background-image: url("//images03.nicepage.io/a1389d7bc73adea1e1c1fb7e/934ec08f1796508aab9291e7/pexels-photo-3931550.jpeg");
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:-200px;
+    background-size: cover;
+
+}
+
+.u-text{
+    font-weight: 700;
+    line-height: 43px;
+    width: 740px;
+    font-size: 3.75rem;
+    margin: 79px auto 0;
+    color: #000000;
+}
+
+.u-text-1{
+    font-weight: 700;
+    line-height: 43px;
+    width: 740px;
+    font-size: 3.75rem;
+    margin: 220px auto 0;
+    color: rgb(0, 0, 0);
+}
+
+.u-text-2{
+    font-size: 1.20rem;
+    width: 740px;
+    margin: 30px auto 60px;
+    color: rgb(0, 0, 0);
+}
+
+.u-text-3{
+    font-weight: 700;
+    line-height: 10px;
+    width: 900px;
+    font-size: 3rem;
+    margin: 10px auto 0;
+    color: rgb(148, 64, 64);
+}

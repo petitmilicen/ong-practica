@@ -1,0 +1,27 @@
+body{
+margin : 0;
+font-family: sans-serif;
+}
+.section{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 50%;
+    margin: 15px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .5) ;
+}
+.section_img{
+    width: 200px;
+    border-radius: 30px;
+    border: dashed 3px white;
+}
+
+
+
+
+
+
+
+
